@@ -1,0 +1,9 @@
+{
+  "ascend.configuration.title": "Ascend Configs",
+  "ascend.configuration.section.ascend.common.toml": "Ascend Configs",
+  "ascend.configuration.section.ascend.common.toml.title": "Ascend Configs",
+  "ascend.configuration.lookDownSpeed": "Look Down Speed",
+  "ascend.configuration.lookDownSpeed.tooltip": "How fast the camera tilts downward (degrees/second)",
+  "ascend.configuration.holdDurationSeconds": "Hold Duration",
+  "ascend.configuration.holdDurationSeconds.tooltip": "How long the camera stays at 33° (seconds)"
+}

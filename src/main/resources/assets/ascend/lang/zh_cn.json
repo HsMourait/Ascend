@@ -1,0 +1,9 @@
+{
+  "ascend.configuration.title": "Ascend 配置",
+  "ascend.configuration.section.ascend.common.toml": "Ascend 配置",
+  "ascend.configuration.section.ascend.common.toml.title": "Ascend 配置",
+  "ascend.configuration.lookDownSpeed": "低头速度",
+  "ascend.configuration.lookDownSpeed.tooltip": "视角低头速度（度/秒）",
+  "ascend.configuration.holdDurationSeconds": "保持时长",
+  "ascend.configuration.holdDurationSeconds.tooltip": "在滑翔角度保持的时长（秒）"
+}
